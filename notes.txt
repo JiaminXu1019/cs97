@@ -1,0 +1,4 @@
+Python Scripting
+* there is an index error
+* there is a syntax error
+* it still works because argparse is still supported in python2
